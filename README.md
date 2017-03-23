@@ -4,6 +4,9 @@ Milligarden is a work-in-progress project with the goal of providing a convenien
 # Usage
 Load http://openjscad.org in a browser (e.g. a recent version of Firefox) and drag either box.jscad or multibox.jscad along with Timber.js and util.js into the file-drop area in the lower left corner of OpenJSCAD.org.
 
+# Roadmap
+Initial upcoming and related project development backlog can be found over at taiga.io: https://tree.taiga.io/project/hearthstone-milligarden
+
 # Credit
 Thanks go to the developers of OpenJSCAD.org for writing a nice variant of SCAD and for providing the polished online execution environment at the project website. 
 
