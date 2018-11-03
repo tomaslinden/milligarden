@@ -575,8 +575,8 @@ function main(params) {
     
         var part = specs['parts'][part_handle];
         var component = specs['components'][part['component']];
-        var profile = specs['profiles'][component['data']['profile']]
-        if(component['type'] == 'extrusion' || component['type'] == "panel") {
+        var profile = specs['profiles'][component['data']['profile']];
+        if (component.type === 'extrusion' || component.type === 'panel') {
 
             if(component['type'] == "panel") {
                 //console.log(component['data']['depth'], component['data']['width'], profile['z']);
